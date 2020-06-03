@@ -197,6 +197,10 @@ From Google and Amazon to Apple and Microsoft, every major tech company is dedic
 - [Artivatic](https://artivatic.ai/career)
 - [Wobot Intelligence](http://www.wobot.ai/careers)
 
+## Search
+
+- [Jina AI](https://jina.ai)
+
 ## Legal
 - [casetext](https://jobs.lever.co/casetext/)
 
